@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Data\Projects\LearnOpenGL\ThirdPartyLibraries\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Data\Projects\LearnOpenGL\ThirdPartyLibraries\Libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Data\Projects\LearnOpenGLRepo\ThirdPartyLibraries\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Data\Projects\LearnOpenGLRepo\ThirdPartyLibraries\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
