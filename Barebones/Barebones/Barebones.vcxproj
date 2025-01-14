@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="Shader.h" />
     <ClInclude Include="stb_image.h" />
+    <ClInclude Include="Texture2D.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />
