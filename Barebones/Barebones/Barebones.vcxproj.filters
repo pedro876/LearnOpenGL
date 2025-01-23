@@ -46,6 +46,9 @@
     <ClInclude Include="Texture2D.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
